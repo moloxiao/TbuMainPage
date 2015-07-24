@@ -1,0 +1,9 @@
+# ignore packages installed by npm
+node_modules
+
+# ignore webstrom config 
+.idea
+
+*~
+
+.DS_Store
